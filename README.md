@@ -1,4 +1,4 @@
-leetcode-scala
+leetcode-scala [![Build Status](https://semaphoreci.com/api/v1/wu/leetcode-scala/branches/master/badge.svg)](https://semaphoreci.com/wu/leetcode-scala)
 ==============
 
 0) [Rotate Array](http://www.programcreek.com/2015/03/rotate-array-in-java/)
