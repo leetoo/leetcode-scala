@@ -11,3 +11,8 @@ leetcode-scala [![Build Status](https://semaphoreci.com/api/v1/wu/leetcode-scala
 
 5) [Word Break II (DP, DFS)](http://www.programcreek.com/2014/03/leetcode-word-break-ii-java/)
 
+6) [Two Sum](http://www.programcreek.com/2012/12/leetcode-solution-of-two-sum-in-java/)
+
+7) [Two Sum 2](http://www.programcreek.com/2014/03/two-sum-ii-input-array-is-sorted-java/)
+
+8) [Two Sum 3](http://www.programcreek.com/2014/03/two-sum-ii-input-array-is-sorted-java/)
