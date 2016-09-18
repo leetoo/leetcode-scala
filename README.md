@@ -16,3 +16,7 @@ leetcode-scala [![Build Status](https://semaphoreci.com/api/v1/wu/leetcode-scala
 7) [Two Sum 2](http://www.programcreek.com/2014/03/two-sum-ii-input-array-is-sorted-java/)
 
 8) [Two Sum 3](http://www.programcreek.com/2014/03/two-sum-ii-input-array-is-sorted-java/)
+
+9) [Merge Intervals](http://www.programcreek.com/2012/12/leetcode-merge-intervals/)
+
+10) [Insert Interval](http://www.programcreek.com/2012/12/leetcode-insert-interval/)
