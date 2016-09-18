@@ -8,7 +8,7 @@ package leetcode.arrary
 object P3_LongestPalindromicSubstring {
   def findPS(os: String) = {
     def isPS(s: String): Boolean = s == s.reverse
-    val idxedS = os.toList.zip(0 until os.length)
+    val idxedS = os.zipWithIndex
     val idxDict = idxedS
       .groupBy[Char]{ case (c, idx) => c }
       .map {case (c, tps) => (c, tps.map(_._2).sorted.reverse)}

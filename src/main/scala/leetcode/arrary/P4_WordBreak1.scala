@@ -14,9 +14,9 @@ package leetcode.arrary
   */
 object P4_WordBreak1 {
   def parse(st: String, dc: List[String]): Boolean = {
-    val dict = dc.zip(1 to dc.size).toMap
+    val dict = dc.zipWithIndex.toMap
     var flags = true :: List.fill(st.length-1)(false)
-    st.toList.zip(0 until st.length).foreach {
+    st.toList.zipWithIndex.foreach {
       case (c, idxC) if idxC == 0 || flags(idxC-1) =>
         val (_, afterC) = st.splitAt(idxC + 1)
         afterC.zip(1 to afterC.length).foreach {

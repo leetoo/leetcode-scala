@@ -17,7 +17,7 @@ object P5_WordBreak2 {
   def parse(st: String, dc: List[String]): Seq[String] = {
     val dict = dc.zip(1 to dc.size).toMap
     var flags = List.fill(st.length)(List[Int]())
-    st.toList.zip(0 until st.length).foreach {
+    st.toList.zipWithIndex.foreach {
       case (c, idxC) if idxC == 0 || flags(idxC-1).nonEmpty =>
         val (_, afterC) = st.splitAt(idxC + 1)
         afterC.zip(1 to afterC.length).foreach {
@@ -63,7 +63,7 @@ object P5_WordBreak2 {
     }
     
     wordsIndexCases.map { wIdx =>
-      (wIdx++List(st.length-1)).zip(0 to wIdx.size).map {
+      (wIdx++List(st.length-1)).zipWithIndex.map {
         case (idx, i) if i>1 =>
           st.substring(wIdx(i-1)+1, idx+1)
         case (idx, i) if i==1 =>
