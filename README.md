@@ -1,22 +1,33 @@
 leetcode-scala [![Build Status](https://semaphoreci.com/api/v1/wu/leetcode-scala/branches/master/badge.svg)](https://semaphoreci.com/wu/leetcode-scala)
 ==============
 
-1) [Rotate Array](http://www.programcreek.com/2015/03/rotate-array-in-java/)
+### Array
 
-2) [Evaluate Reverse Polish Notation (Stack)](http://www.programcreek.com/2012/12/leetcode-evaluate-reverse-polish-notation/)
+1) [Rotate Array](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P1_RotateArray.scala)
 
-3) [Longest Palindromic Substring (DP)](http://www.programcreek.com/2013/12/leetcode-solution-of-longest-palindromic-substring-java/)
+2) [Evaluate Reverse Polish Notation (Stack)](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P2_ReversePolishNotation.scala)
 
-4) [Word Break (DP)](http://www.programcreek.com/2012/12/leetcode-solution-word-break/)
+3) [Longest Palindromic Substring (DP)](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P3_LongestPalindromicSubstring.scala)
 
-5) [Word Break II (DP, DFS)](http://www.programcreek.com/2014/03/leetcode-word-break-ii-java/)
+4) [Word Break (DP)](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P4_WordBreak1.scala)
 
-6) [Two Sum](http://www.programcreek.com/2012/12/leetcode-solution-of-two-sum-in-java/)
+5) [Word Break II (DP, DFS)](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P5_WordBreak2.scala)
 
-7) [Two Sum 2](http://www.programcreek.com/2014/03/two-sum-ii-input-array-is-sorted-java/)
+6) [Two Sum](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P6_TwoSum.scala)
 
-8) [Two Sum 3](http://www.programcreek.com/2014/03/two-sum-ii-input-array-is-sorted-java/)
+7) [Two Sum 2](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P7_TwoSum2_SortedArray.scala)
 
-9) [Merge Intervals](http://www.programcreek.com/2012/12/leetcode-merge-intervals/)
+8) [Two Sum 3](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P8_TwoSum3_ClassDesign.scala)
 
-10) [Insert Interval](http://www.programcreek.com/2012/12/leetcode-insert-interval/)
+9) [Merge Intervals](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P9_MergeIntervals.scala)
+
+10) [Insert Interval](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P10_InsertIntervals.scala)
+
+
+### Recursion
+
+1) [All adjacent combinations (tailrec)](https://github.com/maowug/leetcode-scala/tree/master/src/main/scala/leetcode/recursion/P1_AllAdjacentCombination.scala)
+
+2) [All combinations (tailrec)](https://github.com/maowug/leetcode-scala/tree/master/src/main/scala/leetcode/recursion/P2_CombinationsK.scala)
+
+
