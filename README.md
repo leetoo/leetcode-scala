@@ -23,11 +23,15 @@ leetcode-scala [![Build Status](https://semaphoreci.com/api/v1/wu/leetcode-scala
 
 10) [Insert Interval](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P10_InsertIntervals.scala)
 
+11) [Isomorphic Strings](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
+
+12) [3 Sum](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
+
 
 ### Recursion
 
 1) [All adjacent combinations (tailrec)](https://github.com/maowug/leetcode-scala/tree/master/src/main/scala/leetcode/recursion/P1_AllAdjacentCombination.scala)
 
-2) [All combinations (tailrec)](https://github.com/maowug/leetcode-scala/tree/master/src/main/scala/leetcode/recursion/P2_CombinationsK.scala)
+2) [All combinations](https://github.com/maowug/leetcode-scala/tree/master/src/main/scala/leetcode/recursion/P2_CombinationsK.scala)
 
 

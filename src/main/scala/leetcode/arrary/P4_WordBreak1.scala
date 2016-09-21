@@ -25,8 +25,7 @@ object P4_WordBreak1 {
             flags = flags.updated(idxC + idxD, true)
           case _ => ()
         }
-      case (c, idxC) =>
-        ()
+      case (c, idxC) => ()
     }
     // true is an word end flag except idxC==0
     flags.last && st.nonEmpty
