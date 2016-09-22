@@ -9,5 +9,8 @@ class P12_3SumSpec extends FlatSpec with Matchers {
     assert(P12_3Sum.find3Sums(List(-1, 0, 1, 2, -1, -4)).map(_.toSet).toSet
       ===  List(List(-1, 0, 1), List(-1, -1, 2)).map(_.toSet).toSet
     )
+    assert(P12_3Sum.find3SumsFor(List(-1, 0, 1, 2, -1, -4)).map(_.toSet).toSet
+      ===  List(List(-1, 0, 1), List(-1, -1, 2)).map(_.toSet).toSet
+    )
   }
 }

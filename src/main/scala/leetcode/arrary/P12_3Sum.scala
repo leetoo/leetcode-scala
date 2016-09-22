@@ -16,6 +16,7 @@ package leetcode.arrary
   
   */
 object P12_3Sum {
+  
   def find3Sums (ns: List[Int]): List[List[Int]] = {
     ns.zipWithIndex.foldLeft(List[List[Int]]()) {
       case (acc, (n, idx)) if idx == ns.size -3 =>
@@ -32,13 +33,15 @@ object P12_3Sum {
   }
   
   
-//  def find3SumsFor(ns: List[Int]) = {
-//    for (
-//      (n, idxn) <- ns.zipWithIndex;
-//      (m, idxm) <- ns.takeRight(ns.size - idxn - 1).zip(idxn + 1 until ns.size);
-//      (k, idxk) <- ns.takeRight(ns.size - idxm - 1).zip(idxm + 1 until ns.size)
-//    ) yield (n,m,k)
-//  }
+  def find3SumsFor(ns: List[Int]): List[List[Int]] = {
+    for (
+      (n, idxn) <- ns.zipWithIndex;
+      (m, idxm) <- ns.takeRight(ns.size - idxn - 1)
+        .zip(idxn + 1 until ns.size);
+      (k, idxk) <- ns.takeRight(ns.size - idxm - 1)
+        .zip(idxm + 1 until ns.size) if n + m + k == 0
+    ) yield List(n,m,k)
+  }
   
   //  def find3Sums_rec
   // filter combinations with 3 elems whose sum is 0
