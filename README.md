@@ -3,35 +3,41 @@ leetcode-scala [![Build Status](https://semaphoreci.com/api/v1/wu/leetcode-scala
 
 ### Array
 
-1) [Rotate Array](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P1_RotateArray.scala)
+1) [Rotate Array](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
-2) [Evaluate Reverse Polish Notation (Stack)](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P2_ReversePolishNotation.scala)
+2) [Evaluate Reverse Polish Notation (Stack)](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
-3) [Longest Palindromic Substring (DP)](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P3_LongestPalindromicSubstring.scala)
+3) [Longest Palindromic Substring (DP)](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
-4) [Word Break (DP)](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P4_WordBreak1.scala)
+4) [Word Break (DP)](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
-5) [Word Break II (DP, DFS)](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P5_WordBreak2.scala)
+5) [Word Break II (DP, DFS)](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
-6) [Two Sum](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P6_TwoSum.scala)
+6) [Two Sum](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
-7) [Two Sum 2](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P7_TwoSum2_SortedArray.scala)
+7) [Two Sum 2](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
-8) [Two Sum 3](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P8_TwoSum3_ClassDesign.scala)
+8) [Two Sum 3](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
-9) [Merge Intervals](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P9_MergeIntervals.scala)
+9) [Merge Intervals](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
-10) [Insert Interval](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/P10_InsertIntervals.scala)
+10) [Insert Interval](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
 11) [Isomorphic Strings](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
 12) [3 Sum](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
+13) [Valid Parentheses](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
+
+14) [Merge Sorted Array](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
+
+15) [Longest Valid Parentheses](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
+
 
 ### Recursion
 
-1) [All adjacent combinations (tailrec)](https://github.com/maowug/leetcode-scala/tree/master/src/main/scala/leetcode/recursion/P1_AllAdjacentCombination.scala)
+1) [All adjacent combinations (tailrec)](https://github.com/maowug/leetcode-scala/tree/master/src/main/scala/leetcode/recursion/)
 
-2) [All combinations](https://github.com/maowug/leetcode-scala/tree/master/src/main/scala/leetcode/recursion/P2_CombinationsK.scala)
+2) [All combinations](https://github.com/maowug/leetcode-scala/tree/master/src/main/scala/leetcode/recursion/)
 
 
