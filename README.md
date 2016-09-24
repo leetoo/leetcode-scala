@@ -33,6 +33,10 @@ leetcode-scala [![Build Status](https://semaphoreci.com/api/v1/wu/leetcode-scala
 
 15) [Longest Valid Parentheses](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
+16) [Minimum Size Subarray Sum](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
+
+17) [Longest Consecutive Sequence](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
+
 
 ### Recursion
 
