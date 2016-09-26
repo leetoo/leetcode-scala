@@ -37,6 +37,12 @@ leetcode-scala [![Build Status](https://semaphoreci.com/api/v1/wu/leetcode-scala
 
 17) [Longest Consecutive Sequence](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
 
+18) [Contains Duplicate 1](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
+
+19) [Contains Duplicate 2](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
+
+20) [Contains Duplicate 3](https://github.com/maowug/leetcode-scala/blob/master/src/main/scala/leetcode/arrary/)
+
 
 ### Recursion
 
