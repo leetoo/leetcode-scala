@@ -3,9 +3,6 @@ package leetcode.arrary
 import org.scalatest.FlatSpec
 import org.scalatest.Matchers
 
-/**
-  * Created by wmgg on 9/28/16.
-  */
 class P22_RemoveDupsFromSorted2Spec extends FlatSpec with Matchers {
   
   "P22_RemoveDupsFromSorted2" should "unique works" in {
